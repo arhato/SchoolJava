@@ -1,2 +1,2 @@
 # SchoolJava
-Projects done for the module in the first year of my undergraduate.
+Projects done for the modules in the first year of my undergraduate.
